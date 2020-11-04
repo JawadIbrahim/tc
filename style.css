@@ -1,0 +1,85 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 5px;
+}
+span{
+    font-size: 30px;
+}
+.tbox1{
+    margin: 10px auto;
+    padding: 10px;
+    height: 275px;
+    width: 190px;
+    border: 2px solid lightblue;
+    position: relative;
+}
+.tbox1 .tcir1{
+    background: -moz-radial-gradient(circle, #96cae3, white); 
+    background: -webkit-radial-gradient(circle, #96cae3, white);
+    padding: 5px;
+    background-clip: content-box;
+    margin: 10px auto;
+    border: 1px solid green;
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    position: relative;
+}
+.tbox1 .tcir1 p{
+    position: absolute;
+    right: 75px;
+    top: 65px;
+}
+.tbox2{
+    margin: 10px auto;
+    padding: 10px;
+    height: 275px;
+    width: 190px;
+    border: 2px solid lightblue;
+    position: relative;
+}
+.tbox2 .tcir2{
+    background: -moz-radial-gradient(circle, #96cae3, white); 
+    background: -webkit-radial-gradient(circle, #96cae3, white);
+    padding: 5px;
+    background-clip: content-box;
+    margin: 10px auto;
+    border: 1px solid green;
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    position: relative;
+}
+.tbox2 .tcir2 p{
+    position: absolute;
+    right: 75px;
+    top: 65px;
+}
+.tbox3{
+    margin: 10px auto;
+    padding: 10px;
+    height: 275px;
+    width: 190px;
+    border: 2px solid lightblue;
+    position: relative;
+}
+.tbox3 .tcir3{
+    background: -moz-radial-gradient(circle, #96cae3, white); 
+    background: -webkit-radial-gradient(circle, #96cae3, white);
+    padding: 5px;
+    background-clip: content-box;
+    margin: 10px auto;
+    border: 1px solid green;
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    position: relative;
+}
+.tbox3 .tcir3 p{
+    position: absolute;
+    right: 75px;
+    top: 65px;
+}
